@@ -3,3 +3,6 @@ lib/
 bin/
 db.sqlite3
 share/
+*migrations
+__pycache__/
+
